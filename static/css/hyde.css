@@ -210,6 +210,13 @@ body.theme-base-00 div.content.container div.post h1.post-title{
   }
 }
 
+div.highlight pre {
+    overflow: auto;
+    word-break: normal !important;
+    word-wrap: normal !important;
+    white-space: pre !important;
+    font-size: .6rem !important;
+}
 
 
 /*
